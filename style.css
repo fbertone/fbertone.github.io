@@ -59,7 +59,7 @@ a:hover {
   margin: 25px 0;
 }
 .links a:not(:last-child) {
-  padding: 20px;
+  padding: 7px;
   line-height: 30px;
 }
 
@@ -68,4 +68,3 @@ a:hover {
     text-align: center;
   }
 }
-
